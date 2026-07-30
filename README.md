@@ -1,6 +1,6 @@
 <div align="center">
 
-# SyncAfricaBS — Package Ecosystem
+# SyncAfrica Business Solutions — Package Ecosystem
 
 **Official packages, libraries, and SDKs published by SyncAfricaBS**
 
@@ -17,7 +17,7 @@
 
 ## 📖 About
 
-This repository (and README) serves as the **central index and usage guide** for every package, library, and SDK published by **SyncAfricaBS** across multiple language ecosystems. Whether you're building with **Java, Dart, Python, Go, PHP, JavaScript/TypeScript (Node.js, Angular, React, Next.js), .NET, or Rust**, you'll find installation instructions, quick-start examples, and links to the live package registries here.
+This repository (and README) serves as the **central index and usage guide** for every package, library, and SDK published by **SyncAfrica Business Solutions** across multiple language ecosystems. Whether you're building with **Java, Dart, Python, Go, PHP, JavaScript/TypeScript (Node.js, Angular, React, Next.js), .NET, or Rust**, you'll find installation instructions, quick-start examples, and links to the live package registries here.
 
 > 💡 Each section below is a template — replace the placeholder package names, versions, and code samples with the real details as you publish each package.
 
