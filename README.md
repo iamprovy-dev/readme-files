@@ -1,8 +1,8 @@
 <div align="center">
 
-# SyncAfrica Business Solutions - Package Ecosystem
+# SyncAfrica Business Solutions (SyncAfricaBS) — Package Ecosystem
 
-**Official packages, libraries, and SDKs published by SyncAfricaBS**
+**Official packages, libraries, and SDKs published by SyncAfrica Business Solutions (SyncAfricaBS)**
 
 [![npm](https://img.shields.io/badge/npm-syncafricabs-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/settings/syncafricabs/packages)
 [![pub.dev](https://img.shields.io/badge/pub.dev-syncafricabs.com-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://pub.dev/publishers/syncafricabs.com/packages)
@@ -17,7 +17,7 @@
 
 ## 📖 About
 
-This repository (and README) serves as the **central index and usage guide** for every package, library, and SDK published by **SyncAfrica Business Solutions** across multiple language ecosystems. Whether you're building with **Java, Dart, Python, Go, PHP, JavaScript/TypeScript (Node.js, Angular, React, Next.js), .NET, or Rust**, you'll find installation instructions, quick-start examples, and links to the live package registries here.
+This repository (and README) serves as the **central index and usage guide** for every package, library, and SDK published by **SyncAfrica Business Solutions (SyncAfricaBS)**, authored and maintained by **Providence Chikukwa**, across multiple language ecosystems. Whether you're building with **Java, Dart, Python, Go, PHP, JavaScript/TypeScript (Node.js, Angular, React, Next.js), .NET, or Rust**, you'll find installation instructions, quick-start examples, and links to the live package registries here.
 
 > 💡 Each section below is a template — replace the placeholder package names, versions, and code samples with the real details as you publish each package.
 
@@ -41,6 +41,7 @@ This repository (and README) serves as the **central index and usage guide** for
 - [Versioning](#-versioning)
 - [Contributing](#-contributing)
 - [License](#-license)
+- [Author](#-author)
 - [Support](#-support)
 
 ---
@@ -470,13 +471,13 @@ fn main() {
 
 ## 🔢 Versioning
 
-All SyncAfricaBS packages follow [Semantic Versioning (SemVer)](https://semver.org/):
+All SyncAfrica Business Solutions (SyncAfricaBS) packages follow [Semantic Versioning (SemVer)](https://semver.org/):
 
-| Segment | Meaning                                |
-|---|----------------------------------------|
-| **MAJOR** | Incompatible / breaking API changes    |
+| Segment | Meaning |
+|---|---|
+| **MAJOR** | Incompatible / breaking API changes |
 | **MINOR** | Backwards-compatible new functionality |
-| **PATCH** | Backwards-compatible bug fixes         |
+| **PATCH** | Backwards-compatible bug fixes |
 
 Check each package's registry page for its current version and changelog.
 
@@ -495,25 +496,40 @@ Contributions, issues, and feature requests are welcome for all packages. Please
 
 ## 📄 License
 
-Unless otherwise stated in a specific package's repository, all SyncAfricaBS packages are released under the **MIT License**. See the `LICENSE` file within each individual package repository for details.
+Unless otherwise stated in a specific package's repository, all SyncAfrica Business Solutions (SyncAfricaBS) packages are released under the **MIT License**. See the `LICENSE` file within each individual package repository for details.
+
+---
+
+## 👤 Author
+
+**Providence Chikukwa**
+Publisher and maintainer of all SyncAfrica Business Solutions (SyncAfricaBS) packages across every ecosystem listed in this README.
+
+| Platform | Handle |
+|---|---|
+| npm | [syncafricabs](https://www.npmjs.com/settings/syncafricabs/packages) |
+| pub.dev | [syncafricabs.com](https://pub.dev/publishers/syncafricabs.com/packages) |
+| Maven Central | [com.syncafricabs](https://central.sonatype.com/search?q=com.syncafricabs) |
+| Packagist | [syncafricabs](https://packagist.org/users/syncafricabs/packages/) |
+| crates.io | [iamprovy-dev](https://crates.io/users/iamprovy-dev) |
 
 ---
 
 ## 💬 Support
 
-| Platform | Link                                                                                                     |
-|---|----------------------------------------------------------------------------------------------------------|
-| npm | [npmjs.com/settings/syncafricabs/packages](https://www.npmjs.com/settings/syncafricabs/packages)         |
-| pub.dev | [pub.dev/publishers/syncafricabs.com](https://pub.dev/publishers/syncafricabs.com/packages)              |
+| Platform | Link |
+|---|---|
+| npm | [npmjs.com/settings/syncafricabs/packages](https://www.npmjs.com/settings/syncafricabs/packages) |
+| pub.dev | [pub.dev/publishers/syncafricabs.com](https://pub.dev/publishers/syncafricabs.com/packages) |
 | Maven Central | [central.sonatype.com/search?q=com.syncafricabs](https://central.sonatype.com/search?q=com.syncafricabs) |
-| PyPI | [pypi.org/project/](https://pypi.org/project/)                                                           |
-| Packagist | [packagist.org/users/syncafricabs](https://packagist.org/users/syncafricabs/packages/)                   |
-| crates.io | [crates.io/users/iamprovy-dev](https://crates.io/users/iamprovy-dev)                                     |
+| PyPI | [pypi.org/project/](https://pypi.org/project/) |
+| Packagist | [packagist.org/users/syncafricabs](https://packagist.org/users/syncafricabs/packages/) |
+| crates.io | [crates.io/users/iamprovy-dev](https://crates.io/users/iamprovy-dev) |
 
 For questions or bug reports, please open an issue in the specific package's repository.
 
 <div align="center">
 
-Made with ❤️ by **SyncAfricaBS**
+Made with ❤️ by **Providence Chikukwa** — [SyncAfrica Business Solutions (SyncAfricaBS)](https://www.npmjs.com/settings/syncafricabs/packages)
 
 </div>
