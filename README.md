@@ -1,6 +1,6 @@
 <div align="center">
 
-# SyncAfrica Business Solutions — Package Ecosystem
+# SyncAfrica Business Solutions - Package Ecosystem
 
 **Official packages, libraries, and SDKs published by SyncAfricaBS**
 
@@ -472,11 +472,11 @@ fn main() {
 
 All SyncAfricaBS packages follow [Semantic Versioning (SemVer)](https://semver.org/):
 
-| Segment | Meaning |
-|---|---|
-| **MAJOR** | Incompatible / breaking API changes |
+| Segment | Meaning                                |
+|---|----------------------------------------|
+| **MAJOR** | Incompatible / breaking API changes    |
 | **MINOR** | Backwards-compatible new functionality |
-| **PATCH** | Backwards-compatible bug fixes |
+| **PATCH** | Backwards-compatible bug fixes         |
 
 Check each package's registry page for its current version and changelog.
 
@@ -501,14 +501,14 @@ Unless otherwise stated in a specific package's repository, all SyncAfricaBS pac
 
 ## 💬 Support
 
-| Platform | Link |
-|---|---|
-| npm | [npmjs.com/settings/syncafricabs/packages](https://www.npmjs.com/settings/syncafricabs/packages) |
-| pub.dev | [pub.dev/publishers/syncafricabs.com](https://pub.dev/publishers/syncafricabs.com/packages) |
+| Platform | Link                                                                                                     |
+|---|----------------------------------------------------------------------------------------------------------|
+| npm | [npmjs.com/settings/syncafricabs/packages](https://www.npmjs.com/settings/syncafricabs/packages)         |
+| pub.dev | [pub.dev/publishers/syncafricabs.com](https://pub.dev/publishers/syncafricabs.com/packages)              |
 | Maven Central | [central.sonatype.com/search?q=com.syncafricabs](https://central.sonatype.com/search?q=com.syncafricabs) |
-| PyPI | [pypi.org/project/](https://pypi.org/project/) |
-| Packagist | [packagist.org/users/syncafricabs](https://packagist.org/users/syncafricabs/packages/) |
-| crates.io | [crates.io/users/iamprovy-dev](https://crates.io/users/iamprovy-dev) |
+| PyPI | [pypi.org/project/](https://pypi.org/project/)                                                           |
+| Packagist | [packagist.org/users/syncafricabs](https://packagist.org/users/syncafricabs/packages/)                   |
+| crates.io | [crates.io/users/iamprovy-dev](https://crates.io/users/iamprovy-dev)                                     |
 
 For questions or bug reports, please open an issue in the specific package's repository.
 
